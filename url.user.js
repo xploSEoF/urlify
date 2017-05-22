@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name URLify
-// @namespace http://github.com/xploseof/urlify
+// @namespace https://github.com/xploSEoF/urlify
 // @description URLify everything!
 // @include http://control.propeller.me.uk/*
 // @include http://propeller.me.uk/*
